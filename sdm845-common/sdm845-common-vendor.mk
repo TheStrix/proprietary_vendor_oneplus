@@ -284,9 +284,7 @@ PRODUCT_PACKAGES += \
     imssettings \
     CNEService \
     WfdService \
-    com.qualcomm.location \
     dpmserviceapp \
-    qcrilmsgtunnel \
     WfdCommon \
     com.qti.dpmframework \
     dpmapi \
